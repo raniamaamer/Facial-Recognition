@@ -1,4 +1,7 @@
 streamlit==1.54.0
 numpy==2.4.2
-opencv-python-headless
 pandas==2.3.3
+opencv-python-headless==4.13.0.92
+matplotlib
+seaborn
+scikit-learn
